@@ -29,7 +29,3 @@ byte[] dec = cipher.decrypt(enc);
 ## Author
 
 devikkim, devikkim@gmail.com
-
-## License
-
-IKCryptoKeyboard is available under the MIT license. See the LICENSE file for more info.
