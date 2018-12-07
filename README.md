@@ -1,4 +1,4 @@
-# Rijndael_AES_CIPHER
+## Rijndael_AES_CIPHER
 this repository is AES block cipher using Rijndael algorithm 
 
 1. create instance with pad mode
@@ -25,3 +25,11 @@ byte[] enc = cipher.encrypt(plain);
 ```java
 byte[] dec = cipher.decrypt(enc);
 ```
+
+## Author
+
+devikkim, devikkim@gmail.com
+
+## License
+
+IKCryptoKeyboard is available under the MIT license. See the LICENSE file for more info.
